@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+.calculator {
+ padding: 10px;
+ border-radius: 1em;
+ height: 380px;
+ width: 400px;
+ margin: auto;
+ background-color:rgb(45 40 40);
+ 
+}
+
+.screen{
+    background-color:white;
+    border-radius: 1em;
+    height:2em;
+    width:20em;
+}
+    
+.history{
+background-color:white;
+border-radius: 1em;
+height:2em;
+width:20em;
+}
+
+
+
+
+#equal-sign{
+    background-color:rgb(231, 37, 37);
+}
+
+.clear-button {
+    
+    background-color:rgb(231, 37, 37);
+    color: rgb(255, 255, 255);
+    border: solid rgb(0, 0, 0) 0.5px;
+    width: 100%;
+    border-radius: 5px;
+    height: 54%;
+    outline: none;
+    cursor: pointer;
+   }
+
+
+.button {
+    
+    background-color: rgba(39,90, 143,0.76);
+    color: rgb(255, 255, 255);
+    border: solid rgb(0, 0, 0) 0.5px;
+    width: 100%;
+    border-radius: 5px;
+    height: 103%;
+    outline: none;
+    cursor: pointer;
+   }
